@@ -21,6 +21,10 @@ Install the dependancies
 ```
 pip install numpy
 ```
+or
+```
+python -m pip install numpy
+```
 
 Run it using VS Code or using python
 
